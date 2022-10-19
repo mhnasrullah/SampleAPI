@@ -15,8 +15,8 @@
         "id" : 2,
         "auth" : false,
         "photo" : "/asset/avatar/2.svg",
-        "displayname" : "Melin Febriani",
-        "username" : "melinfebriani",
+        "displayname" : "Raffi Ahmad",
+        "username" : "rafiahmad",
         "story" : [
             {
                 "id" : 21
@@ -27,8 +27,8 @@
         "id" : 3,
         "auth" : false,
         "photo" : "/asset/avatar/3.svg",
-        "displayname" : "Husein Badrani",
-        "username" : "huseinbadrani",
+        "displayname" : "Egy Mualana V",
+        "username" : "egymv",
         "story" : [
             {
                 "id" : 31
@@ -39,8 +39,8 @@
         "id" : 4,
         "auth" : false,
         "photo" : "/asset/avatar/4.svg",
-        "displayname" : "Maya Setiana",
-        "username" : "mayasetiana",
+        "displayname" : "Zahra Fernanda",
+        "username" : "zahfernan_da",
         "story" : [
             {
                 "id" : 41
@@ -51,8 +51,8 @@
         "id" : 5,
         "auth" : false,
         "photo" : "/asset/avatar/5.svg",
-        "displayname" : "Afan Oktafianto",
-        "username" : "afanokta",
+        "displayname" : "KevinDeBruyne",
+        "username" : "kdebe17",
         "story" : [
             {
                 "id" : 51
@@ -63,8 +63,8 @@
         "id" : 6,
         "auth" : false,
         "photo" : "/asset/avatar/6.svg",
-        "displayname" : "Yanuar Bimantara",
-        "username" : "yanuarbima",
+        "displayname" : "InstagramClone",
+        "username" : "igclone",
         "story" : [
             {
                 "id" : 61
@@ -75,8 +75,8 @@
         "id" : 7,
         "auth" : false,
         "photo" : "/asset/avatar/7.svg",
-        "displayname" : "Rafli Daffa Rahman",
-        "username" : "raflidaffa",
+        "displayname" : "Rudi Widodo",
+        "username" : "rudiwidowo",
         "story" : [
             {
                 "id" : 71
@@ -87,8 +87,8 @@
         "id" : 8,
         "auth" : false,
         "photo" : "/asset/avatar/8.svg",
-        "displayname" : "Herdian Bayu",
-        "username" : "herdianbayu",
+        "displayname" : "Sri Mulyani",
+        "username" : "manmensri",
         "story" : [
             {
                 "id" : 81
@@ -99,8 +99,8 @@
         "id" : 9,
         "auth" : false,
         "photo" : "/asset/avatar/1.svg",
-        "displayname" : "Hasan Nasrullah",
-        "username" : "angganasetya",
+        "displayname" : "Asiyah S",
+        "username" : "asyhs",
         "story" : [
             {
                 "id" : 91
@@ -111,8 +111,8 @@
         "id" : 10,
         "auth" : false,
         "photo" : "/asset/avatar/2.svg",
-        "displayname" : "Hasan Nasrullah",
-        "username" : "triadi",
+        "displayname" : "Ulya Fatimatul M",
+        "username" : "ulyafatma",
         "story" : [
             {
                 "id" : 101
