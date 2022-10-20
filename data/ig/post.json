@@ -2,7 +2,7 @@
     {
         "id" : 1,
         "content" : ["https://picsum.photos/1080/1080?random=1"],
-        "caption" : "<p>Incredible Views in here</p><p>You can visit it on everyday everyweek everytime you have, came on and join with us here</p><pre>#awesome</pre><pre>#scenery</pre><pre>#beautiful</pre>",
+        "caption" : "<span>Incredible Views in here</span><span>You can visit it on everyday everyweek everytime you have, came on and join with us here</span><pre>#awesome</pre><pre>#scenery</pre><pre>#beautiful</pre>",
         "like" : 129000,
         "account" : {
             "username" : "igclone",
@@ -23,7 +23,7 @@
     {
         "id" : 2,
         "content" : ["https://picsum.photos/1080/1080?random=2","https://picsum.photos/1080/1080?random=3"],
-        "caption" : "<p>My first post in my new account on this app 😍</p> <pre>#newaccount</pre>",
+        "caption" : "<span>My first post in my new account on this app 😍</span> <pre>#newaccount</pre>",
         "like" : 1267,
         "account" : {
             "username" : "hasannasrullah",
@@ -35,7 +35,7 @@
     {
         "id" : 3,
         "content" : ["https://picsum.photos/1080/1080?random=4","https://picsum.photos/1080/1080?random=5","https://picsum.photos/1080/1080?random=6"],
-        "caption" : "<p>Will start my journey</p><pre>#newexperience</pre><pre>#willhappy</pre>",
+        "caption" : "<span>Will start my journey</span><pre>#newexperience</pre><pre>#willhappy</pre>",
         "like" : 772,
         "account" : {
             "username" : "asyhs",
