@@ -2,7 +2,7 @@
     {
         "id" : 1,
         "content" : ["https://picsum.photos/1080/1080?random=1"],
-        "caption" : "<span>Incredible Views in here</span><br><br><span>You can visit it on everyday everyweek everytime you have, came on and join with us here</span><pre>#awesome</pre><pre>#scenery</pre><pre>#beautiful</pre>",
+        "caption" : "<span>Incredible Views in here</span><br><span>You can visit it on everyday everyweek everytime you have, came on and join with us here</span><br><pre>#awesome</pre><pre>#scenery</pre><pre>#beautiful</pre>",
         "like" : 129000,
         "account" : {
             "username" : "igclone",
@@ -35,7 +35,7 @@
     {
         "id" : 3,
         "content" : ["https://picsum.photos/1080/1080?random=4","https://picsum.photos/1080/1080?random=5","https://picsum.photos/1080/1080?random=6"],
-        "caption" : "<span>Will start my journey</span><br><br><pre>#newexperience</pre><pre>#willhappy</pre>",
+        "caption" : "<span>Will start my journey</span><br><pre>#newexperience</pre><pre>#willhappy</pre>",
         "like" : 772,
         "account" : {
             "username" : "asyhs",
